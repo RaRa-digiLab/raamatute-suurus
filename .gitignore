@@ -1,3 +1,4 @@
 .bookenv
+.gitignore
 blogi/
 erb_books.tsv
